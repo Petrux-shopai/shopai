@@ -1,0 +1,12 @@
+{
+  "name": "petrux-shopai",
+  "version": "1.0.0",
+  "description": "Petrux ShopAI - Worldwide groceries via WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
